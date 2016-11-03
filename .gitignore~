@@ -1,5 +1,6 @@
+<<<<<<< HEAD
 node_modules
-
+=======
 # Logs
 logs
 *.log
@@ -37,3 +38,4 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+>>>>>>> 329ee6282b812e6fe931c96507044b30aee2449c
